@@ -1,4 +1,4 @@
-<h1 align='center'> Hi there 👋, I'm Ashish  :man_technologist: </h1>
+<h3 align='center'> Hi there 👋, I'm Ashish  :man_technologist: </h3>
 <p align='center'>
   <img src="https://github.com/ashashishy/ashashishy/blob/master/img/working-gif.gif" width="300px"> 
 </p>
@@ -7,17 +7,17 @@
 </p>
 <hr>
 <h6>Programming Languages  :rocket:</h6>
-<span><img src="https://github.com/ashashishy/ashashishy/blob/master/img/logo-javascript-png-file-javascript-logo-png-1052.png" width="60px"> 
-<img src="https://github.com/ashashishy/ashashishy/blob/master/img/python.png" width="60px"></span>
+<span><img src="https://github.com/ashashishy/ashashishy/blob/master/img/logo-javascript-png-file-javascript-logo-png-1052.png" width="40px"> 
+<img src="https://github.com/ashashishy/ashashishy/blob/master/img/python.png" width="40px"></span>
 
 <h6>Frameworks, Tools and Services :gear:</h6>
 <span>
-<img src="https://github.com/ashashishy/ashashishy/blob/master/img/react.png" width="60px"> 
-<img src="https://github.com/ashashishy/ashashishy/blob/master/img/bootstrap-png-bootstrap-512.png" width="60px">
-<img src="https://github.com/ashashishy/ashashishy/blob/master/img/214-2146480_visual-studio-code-logo-png-transparent-visual-studio.png" width="60px"> 
-<img src="https://github.com/ashashishy/ashashishy/blob/master/img/Amazon_Web_Services_Logo.svg" width="60px">
-<img src="https://github.com/ashashishy/ashashishy/blob/master/img/Moby-logo.png" width="60px">
-<img src="https://github.com/ashashishy/ashashishy/blob/master/img/unnamed.png" width="60px">
+<img src="https://github.com/ashashishy/ashashishy/blob/master/img/react.png" width="40px"> 
+<img src="https://github.com/ashashishy/ashashishy/blob/master/img/bootstrap-png-bootstrap-512.png" width="40px">
+<img src="https://github.com/ashashishy/ashashishy/blob/master/img/214-2146480_visual-studio-code-logo-png-transparent-visual-studio.png" width="40px"> 
+<img src="https://github.com/ashashishy/ashashishy/blob/master/img/Amazon_Web_Services_Logo.svg" width="40px">
+<img src="https://github.com/ashashishy/ashashishy/blob/master/img/Moby-logo.png" width="40px">
+<img src="https://github.com/ashashishy/ashashishy/blob/master/img/unnamed.png" width="40px">
 </span>
 <p align='center'>
   <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=ashashishy.ashashishy"></a>
