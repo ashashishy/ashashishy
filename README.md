@@ -19,9 +19,6 @@
 <img src="https://github.com/ashashishy/ashashishy/blob/master/img/Moby-logo.png" width="40px">
 <img src="https://github.com/ashashishy/ashashishy/blob/master/img/unnamed.png" width="40px">
 </span>
-<p align='center'>
-  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=ashashishy.ashashishy"></a>
-</p>
 
 <hr>
 <h6>📫 Connect With Me :supervillain_man: :</h6>
