@@ -3,7 +3,7 @@
   <img src="https://github.com/ashashishy/ashashishy/blob/master/img/working-gif.gif" width="300px"> 
 </p>
 <p align='center'>
-  A Computer Science Graduate from Amity University, Lucknow. Passionate Towards learning and designing minimalist UI/UX. Some of the technologies i enjoy working with include Js frameworks, UI/UX, Aws, docker and jenkins.:genie:
+  A Computer Science Graduate from Amity University, Lucknow. Passionate Towards learning new things. Some of the technologies i enjoy working with include Js frameworks, UI/UX, Aws, docker and jenkins.:genie:
 </p>
 <hr>
 <h6>Programming Languages  :rocket:</h6>
